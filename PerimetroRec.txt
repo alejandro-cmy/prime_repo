@@ -1,0 +1,11 @@
+import java .util Scanner;
+public class PerimetroRec{
+		public static void main(String[] args){
+		double base,altura,perimetro;
+		Scanner entrada=new Scanner(System.in);
+		Sysrtem.out.println("ingrese el lado");
+		base=entrada.next Double();
+		perimetro=2(base+altura);
+		System.out.println("en perimetro es:"+ perimetro)
+		}
+}
