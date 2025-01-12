@@ -1,3 +1,4 @@
+//este programa permite hacer un promedio de notas mi nombre es alejandro cualquier duda contactame:0967816009 
 import java.util.Scanner;
 public class PromQuim{
 	public static void main (String[] args){
