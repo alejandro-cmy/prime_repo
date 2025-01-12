@@ -8,6 +8,6 @@ public class PerimetroRec{
 		System.out.println("ingrse la altura");
 		altura=entrada.nextDouble();
 		perimetro= 2*(base+altura);
-		System.out.println("el perimetro es: "+ perimetro);
+		System.out.println("el perimetro es:    "+ perimetro);
 	}
 }
