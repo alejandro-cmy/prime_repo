@@ -1,5 +1,5 @@
 import java.util.Sanner
-public class Triangulo{
+public class {
 		public static void main(String args){
 		int base,altura;
 		double area;

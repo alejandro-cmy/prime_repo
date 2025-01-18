@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class PerimetroRec{
+public class PromQuim{
 	public static void main(String[] args){
-		double base,altura,perimetro;
+		float
 		Scanner entrada=new Scanner(System.in);
 		System.out.println("ingrese el lado");
 		base=entrada.nextDouble();
